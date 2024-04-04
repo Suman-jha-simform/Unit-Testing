@@ -1,0 +1,5 @@
+C:\Users\suman\Desktop\Learning\Keka Goals\Unit Testing 2\Unit Testing\Unit Testin Xunit\obj\Debug\net7.0\Unit Testing Xunit.csproj.AssemblyReference.cache
+C:\Users\suman\Desktop\Learning\Keka Goals\Unit Testing 2\Unit Testing\Unit Testin Xunit\obj\Debug\net7.0\Unit Testing Xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Desktop\Learning\Keka Goals\Unit Testing 2\Unit Testing\Unit Testin Xunit\obj\Debug\net7.0\Unit Testing Xunit.AssemblyInfoInputs.cache
+C:\Users\suman\Desktop\Learning\Keka Goals\Unit Testing 2\Unit Testing\Unit Testin Xunit\obj\Debug\net7.0\Unit Testing Xunit.AssemblyInfo.cs
+C:\Users\suman\Desktop\Learning\Keka Goals\Unit Testing 2\Unit Testing\Unit Testin Xunit\obj\Debug\net7.0\Unit Testing Xunit.csproj.CoreCompileInputs.cache
